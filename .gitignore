@@ -1,0 +1,7 @@
+/vnev/
+.vscode/g
+*.sqlite3
+db.sqlite3
+*.pyc
+*.pyo
+*.pyd
